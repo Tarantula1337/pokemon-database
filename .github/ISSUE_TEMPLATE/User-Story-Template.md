@@ -1,3 +1,12 @@
+---
+name: User Stories v1
+about: Create a User-Story to request new features
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a [role],**
 **I want [an action or feature],**
 **So that [a reason or benefit].**

@@ -1,2 +1,0 @@
-server:
-	fpc -o bin/main server/main.pp

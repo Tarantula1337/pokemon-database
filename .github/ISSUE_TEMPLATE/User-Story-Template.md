@@ -1,5 +1,5 @@
 ---
-name: User Stories v1
+name: User Stories
 about: Create a User-Story to request new features
 title: ''
 labels: ''
